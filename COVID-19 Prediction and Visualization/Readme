@@ -1,0 +1,4 @@
+In this Project I have used the data of COVID-19 cases all around the world and predicted the cases for next days. Also I have done amazing visualization of the data.
+Main Libraries used for this Project : Matplotlib, Pandas, Numpy, Scikit-Learn for prediction etc.
+Model used in this project : Bayesian Ridge Regression
+Techniques used for making better predictions: Randomized Search CV, Polynomial Feature Transform
