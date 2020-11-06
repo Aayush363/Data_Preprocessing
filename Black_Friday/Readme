@@ -1,1 +1,3 @@
-Readme
+In this Project I have used the Black Friday Sales Dataset, and with the libraries like seaborn and matplotlib I have visualized the data.
+For preprocessing the data used techniques like Standard Scaler and LabelEncoder.
+For building the model used RandomForest Regressor.
